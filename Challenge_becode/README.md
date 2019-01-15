@@ -16,11 +16,8 @@
 
 <ul><h2>Liste des participants :</h2>
 	<li>Matthieu</li>
-<<<<<<< HEAD
 	<li>Romain</li>
-=======
 	<li>Jamal</li>
->>>>>>> ajouts-Jamal
 </ul>
 
 <h2>Proposition de mode de fonctionnement</h2>
