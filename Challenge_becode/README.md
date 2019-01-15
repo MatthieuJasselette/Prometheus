@@ -2,7 +2,7 @@
 
 <figure>
 	<img src="https://cdn-images-1.medium.com/max/2600/1*wOJzZIRawP0SmlPDu32mxw.jpeg">
-	<figcaption>Voici une jolie image sur laquelle je ne possède aucun droits.</figcaption>	
+	<figcaption>Voici une jolie image sur laquelle je ne possède aucun droits.</figcaption>
 </figure>
 
 <h2>Présentation du challenge</h2>
@@ -16,6 +16,7 @@
 
 <ul><h2>Liste des participants :</h2>
 	<li>Matthieu</li>
+	<li>Romain</li>
 </ul>
 
 <h2>Proposition de mode de fonctionnement</h2>
