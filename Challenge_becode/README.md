@@ -19,6 +19,7 @@
 	<li>Romain</li>
 	<li>Jamal</li>
 	<li>Lara</li>
+	<li>Pauline</li>
 </ul>
 
 <h2>Proposition de mode de fonctionnement</h2>
